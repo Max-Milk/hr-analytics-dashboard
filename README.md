@@ -44,7 +44,7 @@ The goal of this case study is to analyze and visualize key Human Resources metr
 **🔍 Insight:**  
 External hiring costs are over **2.5 times higher** than internal promotions. This highlights the value of strengthening internal talent pipelines and investing in employee development to reduce recruitment expenses.
 
-🖼️ ![Cost of Hire Chart](Cost_of_Hire_Chart.png)
+🖼️ ![Cost of Hire Chart](images/Cost_of_Hire_Chart.png)
 
 ---
 
@@ -60,7 +60,7 @@ External hiring costs are over **2.5 times higher** than internal promotions. Th
 **🔍 Insight:**  
 The **IT/IS department** dominates headcount, suggesting the organization’s core focus is technology-driven. A smaller executive team may reflect a lean leadership structure.
 
-🖼️ ![Department Distribution](Department_Wise_Distribution_Chart.png)
+🖼️ ![Department Distribution](images/Department_Wise_Distribution_Chart.png)
 
 ---
 
@@ -72,7 +72,7 @@ The **IT/IS department** dominates headcount, suggesting the organization’s co
 **🔍 Insight:**  
 This demographic suggests strong mid-level talent but may also point to succession planning needs as the workforce matures.
 
-🖼️ ![Age Distribution Chart](Age_Distribution_Chart.png)
+🖼️ ![Age Distribution Chart](images/Age_Distribution_Chart.png)
 
 ---
 
@@ -86,7 +86,7 @@ This demographic suggests strong mid-level talent but may also point to successi
 **🔍 Insight:**  
 An equal gender split indicates excellent diversity. Maintaining this balance supports inclusion, improved collaboration, and innovation.
 
-🖼️ ![Gender Distribution Chart](Gender_Distribution_Chart.png)
+🖼️ ![Gender Distribution Chart](images/Gender_Distribution_Chart.png)
 
 ---
 
